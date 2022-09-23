@@ -1,6 +1,6 @@
 # What is a blog
 
-[![What is a blog](redd.png)](https://github.com/wikiehost/what.is.a.blog)
+[![What is a blog](redd.png)](https://icncomputer.com/what-is-a-blog/)
 
 First, let's go over a brief history -- in 1994, Swarthmore College student Justin Hall is credited with the creation of the first blog, Links.net. At the time, however, it wasn't considered a blog … just a personal homepage.
 
